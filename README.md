@@ -5,7 +5,7 @@
 - React, Redux, Jest, Context
 - Docker, MySQL, Node
 
-###Learning...
+### Learning...
 - Sequelize
 
 
