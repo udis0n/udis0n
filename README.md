@@ -1,4 +1,5 @@
 ## Hi, I'm Udison 👋🏽
+a front end developer passionate about beautiful and intuitive interfaces!
 
 ## Skills
 - JavaScript, HTML, CSS, Git 
