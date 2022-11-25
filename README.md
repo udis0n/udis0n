@@ -4,7 +4,7 @@
 - JavaScript, HTML, CSS, Git 
 - React, Redux, Jest, Context
 - Docker, MySQL, Node
-### In learning
+#### In learning
 - Sequelize
 
 
